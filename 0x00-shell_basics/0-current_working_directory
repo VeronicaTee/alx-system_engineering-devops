@@ -1,2 +1,2 @@
 #!/bin/bash
-\n path=$(realpath “${BASH_SOURCE:-$0}”\n) echo $path
+\n echo pwd
