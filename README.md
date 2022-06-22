@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+This will explain what each script is doing
