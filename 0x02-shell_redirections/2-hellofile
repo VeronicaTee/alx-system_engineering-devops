@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "sort < /etc/passwd"
+sort | uniq -u
